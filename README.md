@@ -1,2 +1,4 @@
 # Ascendence
-Live your story in LifeLines—shape traits, build careers, form bonds, and chase fame. Choose paths in politics, music, or business. Every decision echoes across your legacy map, revealing what could’ve been. Your life, your choices, your thread.
+LifeLines is a dynamic life simulator where every choice shapes your journey—from birth to legacy. Customize your background or generate it randomly, then navigate a world of relationships, careers, and personal growth. Track evolving traits like happiness, health, looks, curiosity, empathy, risk tolerance, and fame. Build bonds with family, friends, rivals, mentors, and co-workers, each with unique influence on your path.
+
+Choose your education, hobbies, and mentors. Pursue careers in business, science, or the arts—or dive into special paths like politics or music, with genre options including rap, RNB, and up to three styles of drill. Start your own business, rise through job ranks, or chase stardom. Every decision echoes across your life, and the Legacy Map reveals alternate outcomes—showing what could’ve been if you chose differently.
